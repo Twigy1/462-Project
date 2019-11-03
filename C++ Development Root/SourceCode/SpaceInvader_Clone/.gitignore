@@ -1,0 +1,13 @@
+Debug/
+Release/
+*.dll
+
+*.filters
+*.user
+*.aps
+
+HopsonArcade/
+CMakeFiles/
+
+*.zip
+*.vs
