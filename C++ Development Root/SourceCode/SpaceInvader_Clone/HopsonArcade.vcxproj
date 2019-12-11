@@ -151,6 +151,8 @@
     <ClCompile Include="Source\Framework\Util\FileUtil.cpp" />
     <ClCompile Include="Source\Framework\Util\FPSCounter.cpp" />
     <ClCompile Include="Source\Framework\Util\Maths.cpp" />
+    <ClCompile Include="Source\Framework\Util\Login.cpp" />
+    <ClCompile Include="Source\Framework\Util\Payment.cpp" />
     <ClCompile Include="Source\Framework\Util\ToggleKey.cpp" />
     <ClCompile Include="Source\SpaceInvaders\AnimationRenderer.cpp" />
     <ClCompile Include="Source\SpaceInvaders\Collidable.cpp" />
@@ -179,9 +181,11 @@
     <ClInclude Include="Source\Framework\Util\Animation.h" />
     <ClInclude Include="Source\Framework\Util\FileUtil.h" />
     <ClInclude Include="Source\Framework\Util\FPSCounter.h" />
+    <ClInclude Include="Source\Framework\Util\Login.h" />
     <ClInclude Include="Source\Framework\Util\Maths.h" />
     <ClInclude Include="Source\Framework\Util\NonCopyable.h" />
     <ClInclude Include="Source\Framework\Util\NonMoveable.h" />
+    <ClInclude Include="Source\Framework\Util\Payment.h" />
     <ClInclude Include="Source\Framework\Util\Random.h" />
     <ClInclude Include="Source\Framework\Util\ToggleKey.h" />
     <ClInclude Include="Source\SpaceInvaders\AnimationRenderer.h" />
